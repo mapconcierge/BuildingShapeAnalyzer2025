@@ -25,6 +25,7 @@ A web-based GeoJSON analysis tool for computing geometric properties of building
 ## Live Demo
 https://mapconcierge.github.io/BuildingShapeAnalyzer2025/
 
+<<<<<<< HEAD
 ## Usage
 
 1. **Upload GeoJSON**: Click the file input and select a GeoJSON file containing building polygons (EPSG:4326)
@@ -169,3 +170,7 @@ For questions or issues, please open a GitHub issue with:
 - Sample GeoJSON file (if applicable)
 - Browser and version
 - Description of the problem
+=======
+<img width="3024" height="1900" alt="Image" src="https://github.com/user-attachments/assets/9576848f-9b08-45fc-8edc-8481f1b30db9" />
+
+>>>>>>> 617831e8ba2e200892b6327495c5b721e1d8ae79
