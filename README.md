@@ -2,6 +2,9 @@
 
 A web-based GeoJSON analysis tool for computing geometric properties of building polygons, including orientation, shape metrics, and entrance accessibility analysis.
 
+<img width="3024" height="1900" alt="Image" src="https://github.com/user-attachments/assets/9576848f-9b08-45fc-8edc-8481f1b30db9" />
+
+
 ## Features
 
 ### Core Analysis
